@@ -1,9 +1,10 @@
 # PRAKTIKUM 07
 
-Nama : Bagas Prambudi
-Kelas : MI 2C
-No Absen : 07
-Prodi : D-3 MI
+Nama : Bagas Prambudi <br>
+Nim : 2031710108 <br>
+Kelas : MI 2C <br>
+No Absen : 07 <br>
+Prodi : D-3 MI <br>
 
 ## HTTP REQUEST API
 
